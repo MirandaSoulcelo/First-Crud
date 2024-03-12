@@ -1,0 +1,14 @@
+C:\Users\Marce\OneDrive\Documents\CursoC#\Crudtest\CrudFolder\bin\Debug\net8.0-windows\Crud.exe
+C:\Users\Marce\OneDrive\Documents\CursoC#\Crudtest\CrudFolder\bin\Debug\net8.0-windows\Crud.deps.json
+C:\Users\Marce\OneDrive\Documents\CursoC#\Crudtest\CrudFolder\bin\Debug\net8.0-windows\Crud.runtimeconfig.json
+C:\Users\Marce\OneDrive\Documents\CursoC#\Crudtest\CrudFolder\bin\Debug\net8.0-windows\Crud.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\Crudtest\CrudFolder\bin\Debug\net8.0-windows\Crud.pdb
+C:\Users\Marce\OneDrive\Documents\CursoC#\Crudtest\CrudFolder\obj\Debug\net8.0-windows\Crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\OneDrive\Documents\CursoC#\Crudtest\CrudFolder\obj\Debug\net8.0-windows\Crud.AssemblyInfoInputs.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\Crudtest\CrudFolder\obj\Debug\net8.0-windows\Crud.AssemblyInfo.cs
+C:\Users\Marce\OneDrive\Documents\CursoC#\Crudtest\CrudFolder\obj\Debug\net8.0-windows\Crud.csproj.CoreCompileInputs.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\Crudtest\CrudFolder\obj\Debug\net8.0-windows\Crud.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\Crudtest\CrudFolder\obj\Debug\net8.0-windows\refint\Crud.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\Crudtest\CrudFolder\obj\Debug\net8.0-windows\Crud.pdb
+C:\Users\Marce\OneDrive\Documents\CursoC#\Crudtest\CrudFolder\obj\Debug\net8.0-windows\Crud.genruntimeconfig.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\Crudtest\CrudFolder\obj\Debug\net8.0-windows\ref\Crud.dll
